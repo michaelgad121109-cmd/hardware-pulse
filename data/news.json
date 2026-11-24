@@ -1,4 +1,613 @@
 {
-  "updated_at": null,
-  "articles": []
+  "updated_at": "2026-11-24T10:19:34.524109+00:00",
+  "sources_checked": 6,
+  "feed_errors": [
+    "AnandTech",
+    "VideoCardz"
+  ],
+  "articles": [
+    {
+      "title": "Bull Shows Intel Xeon Diamond Rapids Package at SC26",
+      "summary": "Bull shows off an Intel Xeon Diamond Rapids LGA9324 package in its Sequana XH31600 platform at Supercomputing 2026 \n The post  Bull Shows Intel Xeon Diamond Rapids Package at SC26  appeared first on  ServeTheHome .",
+      "summary_ar": "",
+      "category": "CPU",
+      "source": "ServeTheHome",
+      "url": "https://www.servethehome.com/bull-shows-intel-xeon-diamond-rapids-package-at-sc26/",
+      "published_at": "Wed, 18 Nov 2026 17:21:10 +0000"
+    },
+    {
+      "title": "Samsung And SK hynix Face Labor Crunch For Its Semiconductor Mega-Projects; South Korea Reportedly Meeting 260,000 Workforce Requirement Through Retired Soldiers",
+      "summary": "Enjoying lucrative earnings through long-term memory deals has given Samsung and SK hynix newfound hope of investing billions into building ambitious semiconductor plants, if not for one major problem. The two technology titans are finding it difficult to hire workers, and according to the latest report, both firms are projected to require 260,000 employees by 2030 to build out their next generation of chip fabricati",
+      "summary_ar": "",
+      "category": "Memory",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/samsung-sk-hynix-face-labor-crunch-260000-workers-retired-soldiers/",
+      "published_at": "Tue, 24 Nov 2026 10:14:10 +0000"
+    },
+    {
+      "title": "Enthusiast gets GTA V running on a 2007 Radeon with just 64MB of VRAM",
+      "summary": "Budget-Builds Official ran GTA V on a 2007 ATI Radeon HD 2350 with 64MB of DDR2 VRAM at 13 to 20 FPS.",
+      "summary_ar": "",
+      "category": "GPU",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/video-games/pc-gaming/enthusiast-gets-gta-v-running-on-a-2007-radeon-with-just-64mb-of-vram-config-edits-windows-8-and-an-overclock-lift-it-from-1-fps-to-20-fps-but-most-cars-stop-rendering",
+      "published_at": "Tue, 24 Nov 2026 10:00:00 +0000"
+    },
+    {
+      "title": "Sharge's Disk Pro 2 USB hub and actively cooled M.2 enclosure drops to its lowest-ever price",
+      "summary": "Sharge's see-through hub with the ports you need and up to 8TB of storage is now on sale for $66.51 for the Lite model, or $80.91 for the Ultra model that supports up to 8K and faster card reader speeds.",
+      "summary_ar": "",
+      "category": "Memory",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/sharges-disk-pro-2-usb-hub-and-actively-cooled-m-2-enclosure-drops-to-its-lowest-ever-price-one-of-my-favorite-products-of-2026-now-starts-at-just-usd66",
+      "published_at": "Tue, 24 Nov 2026 09:30:00 +0000"
+    },
+    {
+      "title": "(PR) ASRock Industrial Unveils Robotics-in-a-Box to Democratize Physical AI Development",
+      "summary": "ASRock Industrial, a global provider of industrial computing and edge AI solutions, today announced the launch of RBK-100 Robotics-in-a-Box. Designed to simplify robotic AI development and make hands-on experimentation more accessible to researchers, educators, and developers, RBK-100 is an integrated Physical AI development platform powered by the ASRock Industrial NUC BOX-358H featuring the Intel Core Ultra X7 Proc",
+      "summary_ar": "",
+      "category": "CPU",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/355151/asrock-industrial-unveils-robotics-in-a-box-to-democratize-physical-ai-development",
+      "published_at": "Tue, 24 Nov 2026 08:32:09 +0000"
+    },
+    {
+      "title": "Put Your GPU to Work: Offline AI Video Enhancement with Aiarty (Black Friday Deal)",
+      "summary": "Modern GPUs are no longer used exclusively for gaming and 3D rendering. They also support an expanding range of local AI workloads, including image and video processing. For PC enthusiasts with large collections of older recordings, compressed clips, or low-resolution footage, AI video enhancement offers another practical use for desktop computing power. \n \nBrowser-based solutions such as NVIDIA RTX Video Super Resol",
+      "summary_ar": "",
+      "category": "GPU",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/354822/put-your-gpu-to-work-offline-ai-video-enhancement-with-aiarty-black-friday-deal",
+      "published_at": "Tue, 24 Nov 2026 06:04:01 +0000"
+    },
+    {
+      "title": "GIGABYTE and Newegg Bring \"AORUS VS40\" to Southern California in November 2026",
+      "summary": "GIGABYTE and Newegg will host AORUS VS40 at the Newegg Gamer Zone in City of Industry, California, on Saturday, November 21, 2026, from 11 a.m. to 4 p.m. PST. The event invites local collegiate PC gamers and hardware enthusiasts to celebrate 40 years of GIGABYTE by putting their skills to the test on the tournament floor and at gaming stations throughout the venue. \n \nGamers can flex their prowess in the AORUS VS40 t",
+      "summary_ar": "",
+      "category": "GPU",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/355019/gigabyte-and-newegg-bring-aorus-vs40-to-southern-california-in-november-2026",
+      "published_at": "Tue, 24 Nov 2026 02:15:19 +0000"
+    },
+    {
+      "title": "Jetway Intros MTX-RYZ1 Mini-ITX Industrial Board with Ryzen 7 PRO 8845HS",
+      "summary": "Jetway has introduced the MTX-RYZ1 Mini-ITX industrial motherboard built around the  Ryzen 7 PRO 8845HS . The AMD &quot;Hawk Point&quot; Zen 4 chip has 8 cores and 16 threads with a 3.8 GHz base clock, and it's aimed mostly at embedded systems and industrial applications. The two SO-DIMM slots support up to 96 GB of DDR5-5600, with both ECC and non-ECC modules supported. For storage, the motherboard has two SATA III ",
+      "summary_ar": "",
+      "category": "CPU",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/355148/jetway-intros-mtx-ryz1-mini-itx-industrial-board-with-ryzen-7-pro-8845hs",
+      "published_at": "Tue, 24 Nov 2026 00:54:45 +0000"
+    },
+    {
+      "title": "GTA 6 Easter Egg Opens a Portal to the Original 2002 Vice City",
+      "summary": "It's well known that Rockstar loves its Easter eggs, but this one might just be the best one yet. Apparently, there is a time-traveling Easter egg in GTA 6 that takes you back to the original Vice City from 2002. Australian YouTuber  Memeio  found the complex Easter egg and published a guide on how to solve it, unlocking a trip down memory lane straight to the Malibu Club in Vice City. The best part is that Rockstar ",
+      "summary_ar": "",
+      "category": "Memory",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/355136/gta-6-easter-egg-opens-a-portal-to-the-original-2002-vice-city",
+      "published_at": "Tue, 24 Nov 2026 00:45:31 +0000"
+    },
+    {
+      "title": "Max Out Your Gen 4 Slot: Predator GM7 NVMe SSD (Up to 7400 MB/s)",
+      "summary": "If you've been waiting for the Black Friday sales to upgrade your rig, expand your PS5 storage, or give your laptop a massive speed boost, the award-winning Predator GM7 PCIe 4.0 SSD is built to deliver top-tier performance without the top-tier heat. Powered by the highly efficient Maxio MAP1602 controller and fast 3D TLC NAND flash, this award-winning drive brings flagship-level Gen 4 speeds to a streamlined, DRAM-l",
+      "summary_ar": "",
+      "category": "Memory",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/354313/max-out-your-gen-4-slot-predator-gm7-nvme-ssd-up-to-7400-mb-s",
+      "published_at": "Tue, 24 Nov 2026 00:35:45 +0000"
+    },
+    {
+      "title": "TCL Debuts 120 Hz IPS LCD Drawing Just 1 W in Lenovo Yoga Prototype Laptop",
+      "summary": "TCL CSOT has been working on some significant display innovations recently, including its recent  announcement of 1250 Hz QHD OLED monitors  at DTC 2026. Also at DTC 2026, TCL has reportedly ( via Notebookcheck ) shown off a new 14-inch LCD prototype drawing as little as 1 W of power in a new Lenovo Yoga Pro laptop prototype. While it's unknown exactly what luminance settings and refresh rates are used to bring the p",
+      "summary_ar": "",
+      "category": "GPU",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/355145/tcl-debuts-120-hz-ips-lcd-drawing-just-1-w-in-lenovo-yoga-prototype-laptop",
+      "published_at": "Tue, 24 Nov 2026 00:25:58 +0000"
+    },
+    {
+      "title": "Experimental XNU Linux Project Boots macOS 27 Desktop on Linux",
+      "summary": "Unix software enthusiasts, rejoice! An experimental project called &quot;XNU Linux&quot; has successfully booted a complete macOS 27 desktop on an ARM64 Linux system. This breakthrough offers a new way to run Apple's operating system without relying on traditional virtualization methods. This is significant news for the community, as there is a large group of enthusiasts eager to create custom macOS desktops, also kn",
+      "summary_ar": "",
+      "category": "CPU",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/355147/experimental-xnu-linux-project-boots-macos-27-desktop-on-linux",
+      "published_at": "Tue, 24 Nov 2026 00:08:42 +0000"
+    },
+    {
+      "title": "17-year-old Windows 7 gets unofficial DirectX 12 and Vulkan 1.4 support",
+      "summary": "A community-developed project brings DirectX 12 and Vulkan 1.4 support to Microsoft's retired operating system, allowing modern Nvidia, AMD, and Intel graphics cards to work with Windows 7.",
+      "summary_ar": "",
+      "category": "GPU",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/software/windows/17-year-old-windows-7-gets-unofficial-directx-12-and-vulkan-1-4-support-enthusiasts-bring-nvidia-rtx-50-amd-rx-9000-and-intel-arc-gpus-to-the-aging-os",
+      "published_at": "Sun, 22 Nov 2026 20:03:52 +0000"
+    },
+    {
+      "title": "Intel's Cheapest Arc G3 Handheld Chip Reportedly Called \"Arc G3 Play\"",
+      "summary": "Videocardz  reports that Intel is working on a new Arc G3 handheld chip, called Arc G3 Play, for affordable handhelds. The report says that this part will slot in below the  Arc G3 and G3 Extreme , and will have just four Xe3 GPU cores. The Arc G3 has 10 Xe3 cores, while the top-end Xe3 Extreme has 12. This new chip will sit below both existing SKUs and target cheaper handhelds. The CPU configuration is not well-know",
+      "summary_ar": "",
+      "category": "GPU",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/355096/intels-cheapest-arc-g3-handheld-chip-reportedly-called-arc-g3-play",
+      "published_at": "Sun, 22 Nov 2026 18:25:36 +0000"
+    },
+    {
+      "title": "Intel Lands an Unnamed External Customer for Its 18A-P Node",
+      "summary": "Intel CEO Lip-Bu Tan says the company has signed its first outside customer for 18A, although he kept the customer anonymous. It was first reported by  CNBC  that Tan mentioned the Intel 18A node while speaking at the TomorrowX Summit in Austin last Wednesday, but Intel CTO Pushkar Ranade later  confirmed on X  that the deal was for 18A-P specifically. That node entered risk production in June, and Intel claims it of",
+      "summary_ar": "",
+      "category": "CPU",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/355094/intel-lands-an-unnamed-external-customer-for-its-18a-p-node",
+      "published_at": "Sun, 22 Nov 2026 16:31:35 +0000"
+    },
+    {
+      "title": "Lenovo Pro 9n review: 18-core RTX Spark in a fancy chassis",
+      "summary": "The Lenovo Pro 9n is a lighter alternative to the Surface Laptop Ultra, offering a vivid OLED panel and lots of ports, though it shares similar weaknesses, like battery life.",
+      "summary_ar": "",
+      "category": "GPU",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/laptops/lenovo-pro-9n-review",
+      "published_at": "Sun, 22 Nov 2026 16:00:00 +0000"
+    },
+    {
+      "title": "AI agents design an entirely new CPU architecture from scratch, startup claims",
+      "summary": "Architect Labs says its AI agents designed Frostbite, an interaction-net CPU with 4.59x the performance per watt of an in-order core.",
+      "summary_ar": "",
+      "category": "CPU",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/ai-agents-design-an-entirely-new-cpu-architecture-from-scratch-startup-claims-frostbite-posts-4-59x-the-performance-per-watt-of-an-in-order-core-in-pre-silicon-tests",
+      "published_at": "Sun, 22 Nov 2026 13:00:00 +0000"
+    },
+    {
+      "title": "Moore Threads' next 'Lushan' gaming GPU could pack a record 64GB of VRAM",
+      "summary": "Moore Threads teased its Lushan gaming GPU ahead of MDC 2026, with a product manager claiming record VRAM for a consumer graphics card.",
+      "summary_ar": "",
+      "category": "GPU",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/gpus/moore-threads-next-lushan-gaming-gpu-could-pack-a-record-64gb-of-vram-doubles-the-rtx-5090s-32gb-lofty-claims-of-15x-gaming-and-50x-ray-tracing-over-mtt-s80",
+      "published_at": "Sun, 22 Nov 2026 12:30:00 +0000"
+    },
+    {
+      "title": "Lenders back SpaceX's $43 billion Nvidia GPU deal but worry the collateral could end up in orbit, making them impossible to reclaim if Musk defaults",
+      "summary": "The $43 billion loan is structured as a unique arrangement in which a different company buys the Nvidia chips, while SpaceX makes quarterly payments to use them.",
+      "summary_ar": "",
+      "category": "GPU",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/lenders-back-spacexs-usd43-billion-nvidia-gpu-deal-but-worry-the-collateral-could-end-up-in-orbit-making-it-impossible-to-reclaim-if-musk-defaults-five-year-hell-or-high-water-lease-may-lack-a-written-earth-only-guarantee",
+      "published_at": "Sun, 22 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Ditch cloud subscriptions with a $132 discount on a 4-Bay NAS enclosure in Amazon Black Friday deal",
+      "summary": "For those looking to ditch cloud storage this Black Friday, UGreen's DXP4800 GT 4-bay NAS enclosure has gone on sale with a lovely 20% discount at Amazon, marking the second time it's returned to its all-time low price point.",
+      "summary_ar": "",
+      "category": "Memory",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/nas/ditch-cloud-subscriptions-with-a-usd132-discount-on-a-4-bay-ugreen-dxp4800-gt-nas-enclosure-in-amazon-black-friday-deal-offers-dual-10gbe-ports-and-supports-up-to-144tb-of-storage",
+      "published_at": "Sun, 22 Nov 2026 09:45:44 +0000"
+    },
+    {
+      "title": "MSI's magnificent 32-inch 4K QD-OLED gaming monitor tumbles to just $569",
+      "summary": "Save $130 on this gorgeous 32-inch QD-OLED gaming monitor from MSI and experience crisp visuals in 4K.",
+      "summary_ar": "",
+      "category": "Other",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/monitors/gaming-monitors/msis-magnificent-32-inch-4k-qd-oled-gaming-monitor-tumbles-to-just-usd569-save-usd130-at-b-and-h-photo-with-this-black-friday-mag-321up-deal-the-perfect-gaming-upgrade-for-your-pc",
+      "published_at": "Sun, 22 Nov 2026 09:14:51 +0000"
+    },
+    {
+      "title": "OLED gaming laptop with RTX 5060 and Intel Core Ultra 7 CPU price crashes by $650 in Black Friday offer",
+      "summary": "Getting a gaming laptop this holiday season doesn't have to mean spending thousands of dollars, as this modestly priced Lenovo Legion 5i OLED gaming laptop has dropped to just $1,349 at B&amp;H.",
+      "summary_ar": "",
+      "category": "GPU",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/laptops/gaming-laptops/oled-gaming-laptop-with-rtx-5060-and-intel-core-ultra-7-cpu-price-crashes-by-usd650-in-black-friday-offer-lenovo-legion-5i-laptop-drops-to-usd1-349-with-free-games-at-b-and-h",
+      "published_at": "Sun, 22 Nov 2026 09:05:40 +0000"
+    },
+    {
+      "title": "Alienware Aurora PC with RTX 5070, 32GB of RAM drops to $1,899 in Amazon Black Friday offer",
+      "summary": "Pick up a gaming PC bargain this Black Friday with this RTX 5070-powered Alienware Aurora rig, which also comes with 32GB of DDR5 memory for only $1.899.",
+      "summary_ar": "",
+      "category": "GPU",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/desktops/gaming-pcs/alienware-aurora-pc-with-rtx-5070-32gb-of-ram-drops-to-usd1-899-in-amazon-black-friday-offer-core-ultra-7-equipped-pc-is-one-of-the-best-value-prebuilt-deals-weve-seen-so-far",
+      "published_at": "Sun, 22 Nov 2026 08:08:15 +0000"
+    },
+    {
+      "title": "Phison Previews an SSD That Runs AI Frameworks on Its Own NPU",
+      "summary": "Everyone's going all in on AI, so SSD manufacturers were not going to be left behind. Phison has  detailed  an enterprise SSD design that can run AI frameworks on the drive itself. At the Supercomputing 2026 (SC26) event in Chicago, the company showed off the computational storage design that hosts both an NPU and 64 GB of onboard memory running at 130 GB/s. It also supports PyTorch, vLLM, OpenVINO, and llama.ccp. Ph",
+      "summary_ar": "",
+      "category": "Memory",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/355089/phison-previews-an-ssd-that-runs-ai-frameworks-on-its-own-npu",
+      "published_at": "Sun, 22 Nov 2026 01:23:59 +0000"
+    },
+    {
+      "title": "Intel Nova Lake-H Spec Sheet Shows Up With a 4.8 GHz Boost and 25 W TDP",
+      "summary": "As we move closer to Nova Lake's eventual launch, more and more details are surfacing about the various lineups under that umbrella. We covered the sighting of the  28-core Intel &quot;Nova Lake-S&quot;  desktop CPU on Openbenchmark today, and now we have an early look at the Nova Lake-H lineup. Advantech's  preliminary datasheet  for the ASR-A505 model gives us a glance at the Core Ultra Series 4 &quot;Nova Lake-H&q",
+      "summary_ar": "",
+      "category": "CPU",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/355088/intel-nova-lake-h-spec-sheet-shows-up-with-a-4-8-ghz-boost-and-25-w-tdp",
+      "published_at": "Sat, 21 Nov 2026 23:58:48 +0000"
+    },
+    {
+      "title": "Moore Threads Claims Its Next GPU Will Break the Consumer VRAM Record",
+      "summary": "Another player is coming to stake their claim against NVIDIA, AMD, and Intel in the GPU market. A product manager behind Moore Threads' MTT S80 claims that the company's next desktop graphics card, codenamed Lushan, could set the record for the largest VRAM capacity ever put on a consumer graphics card. He posted this on November 18 on Weibo, but didn't disclose how much VRAM it would actually have. After that, Moore",
+      "summary_ar": "",
+      "category": "GPU",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/355084/moore-threads-claims-its-next-gpu-will-break-the-consumer-vram-record",
+      "published_at": "Sat, 21 Nov 2026 20:56:24 +0000"
+    },
+    {
+      "title": "SilverStone Equips HELA 1350Rz With Three EPS Cables, Citing Nova Lake-S \"High Power Demands\"",
+      "summary": "SilverStone has published the product page for the  HELA 1350Rz  on its website, which is a 1350 W, ATX 3.1 PSU with 80 Plus Platinum certification. It is a fully modular PSU, but the interesting bit is that it ships with three 4+4-pin EPS cables, whereas PSU units in this class usually come with two. SilverStone's reasoning is that the extra cable is there for the &quot;high power demands of Intel NVL-S CPUs,&quot; ",
+      "summary_ar": "",
+      "category": "GPU",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/355083/silverstone-equips-hela-1350rz-with-three-eps-cables-citing-nova-lake-s-high-power-demands",
+      "published_at": "Sat, 21 Nov 2026 20:27:59 +0000"
+    },
+    {
+      "title": "Sony's Patented Collar Would Blow Air on Players, Likely During VR Games",
+      "summary": "If you're familiar with Sony's patents, you know they can be  quite ambitious  sometimes. Continuing that trend, Sony Interactive Entertainment recently filed a patent application for a curved neckband with air vents on the inner side that would blow air towards the wearer's neck, chin, and face. The filing (US 2026/0357800 A1), spotted by  Patentlyze , went public on November 12. Sony itself describes the goal as a ",
+      "summary_ar": "",
+      "category": "Memory",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/355082/sonys-patented-collar-would-blow-air-on-players-likely-during-vr-games",
+      "published_at": "Sat, 21 Nov 2026 19:29:25 +0000"
+    },
+    {
+      "title": "28-Core Intel \"Nova Lake-S\" Appears in Testing Running at 5.2 GHz",
+      "summary": "Intel's single-compute die &quot;Nova Lake-S&quot; variant has been spotted with a 28-core configuration and a boost frequency of 5.2 GHz, according to the OpenBenchmark testing suite. During the tests, a processor named Intel 0000 appeared with the &quot;NVL&quot; identifier, suggesting that a &quot;Nova Lake-S&quot; SKU with this configuration is indeed present. The processor's identification as Intel 0000 implies ",
+      "summary_ar": "",
+      "category": "GPU",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/355078/28-core-intel-nova-lake-s-appears-in-testing-running-at-5-2-ghz",
+      "published_at": "Sat, 21 Nov 2026 15:39:12 +0000"
+    },
+    {
+      "title": "GPD Win Mini Ultra Pricing Confirmed: Intel Arc G3 Extreme Handheld Starts at $1,699",
+      "summary": "GPD has officially published pricing details for the Win Mini Ultra, following the  gaming handheld's spec sheet previously being published  ahead of the full launch. According to a recent  post on X , the Win Mini Ultra will initially be available with 32 GB of RAM and 1 TB of SSD storage, which will sell for $1,699 on  Indiegogo . That version of the handheld will ship with  Intel's Arc G3 Extreme CPU  and Arc B390",
+      "summary_ar": "",
+      "category": "GPU",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/355075/gpd-win-mini-ultra-pricing-confirmed-intel-arc-g3-extreme-handheld-starts-at-usd-1-699",
+      "published_at": "Sat, 21 Nov 2026 05:56:41 +0000"
+    },
+    {
+      "title": "GTA 6 Glitch Enables First-Person POV and Open-Source App Adds 120 FPS with DLSS 5",
+      "summary": "Despite the game's immensely positive reception, there has been a lot of chatter online about performance issues with Grand Theft Auto VI, with several reports now circulating that the  graphically intensive nature of the game appears to be causing issues with aging liquid metal TIM on PS5s . One solution that PC enthusiasts have been experimenting with is running GTA VI via game streaming and injecting DLSS5 into th",
+      "summary_ar": "",
+      "category": "Memory",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/355071/gta-6-glitch-enables-first-person-pov-and-open-source-app-adds-120-fps-with-dlss-5",
+      "published_at": "Sat, 21 Nov 2026 05:22:40 +0000"
+    },
+    {
+      "title": "Report: Samsung's 2027 DRAM Supply Is Effectively Sold Out",
+      "summary": "If the global memory crisis wasn't already bad enough, it looks like relief is still quite a few years away. An exclusive report from South Korea's  Economy Tribune  says that most of Samsung's memory production capacity for 2027 through 2029 is already spoken for. The outlet says customers are already eyeing long-term agreements (LTAs) that run to 2031, and most are asking Samsung for volume beyond what they have al",
+      "summary_ar": "",
+      "category": "Memory",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/355146/report-samsungs-2027-dram-supply-is-effectively-sold-out",
+      "published_at": "Mon, 23 Nov 2026 23:58:50 +0000"
+    },
+    {
+      "title": "Intel Arc G3 Extreme-Powered OneXPlayer X2 Handheld Gets Limited Edition Evangelion Edition",
+      "summary": "One-Netbook, the maker of the OneXPlayer gaming handhelds and mini 2-in-1 laptops, like the X1 and X1 Pro, has officially announced the OneXPlayer X2 x Neon Genesis Evangelion Unit-02 Asuka Limited Edition handheld, giving the Intel Panther Lake-powered gaming handheld a new lick of paint inspired by the iconic anime series. With the Neon Genesis Evangelion Limited Edition variant, the X2 gaming handheld's CNC alumin",
+      "summary_ar": "",
+      "category": "GPU",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/355141/intel-arc-g3-extreme-powered-onexplayer-x2-handheld-gets-limited-edition-evangelion-edition",
+      "published_at": "Mon, 23 Nov 2026 22:48:16 +0000"
+    },
+    {
+      "title": "(PR) CyberPowerPC Expands AI Workstation Line with Compact AMD Ryzen AI Max+ 395 Powered Desktop",
+      "summary": "CyberPowerPC, a leading manufacturer of high-performance custom PCs, gaming rigs, and workstations, today announced its compact AI Workstation ASRock AI BOX-A395, powered by the AMD Ryzen AI Max+ 395 processor. The company also previewed its upcoming enterprise-grade AMD Ryzen AI Max+ PRO 495 AI Workstation Series, planned for release in Q4 2026. \n \nDesigned to bring powerful computing capabilities to a compact deskt",
+      "summary_ar": "",
+      "category": "GPU",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/355143/cyberpowerpc-expands-ai-workstation-line-with-compact-amd-ryzen-ai-max-395-powered-desktop",
+      "published_at": "Mon, 23 Nov 2026 22:46:51 +0000"
+    },
+    {
+      "title": "Samsung’s Galaxy Tab S11 Is Now $300 Off For Every Storage Tier; Get A Dimensity 9400+, 12GB RAM & More, From Just $700",
+      "summary": "Apple might have the lion’s share of the tablet market, but that doesn’t mean Samsung isn’t putting up a good fight in churning out solid iPad Pro alternatives for the masses. Its Galaxy Tab S11 is a solid option, and thanks to Amazon’s Black Friday 2026 sale, you’ll consider the 11-inch slate. After all, its three storage variants are discounted by $300, meaning that you get to be the proud owner of the premium tabl",
+      "summary_ar": "",
+      "category": "Memory",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/samsung-galaxy-tab-s11-black-friday-deal-amazon/",
+      "published_at": "Mon, 23 Nov 2026 21:08:17 +0000"
+    },
+    {
+      "title": "HWiNFO Can Now Serve Sensor Readings to Phones and Tablets Over Your Network",
+      "summary": "HWiNFO has released  version 8.61 Beta  (build 6125), which adds a built-in  REST API server . That addition now allows HWiNFO to serve every tracked sensor as JSON over HTTP or HTTPS, along with details such as units, descriptions, and sensor groupings. This basically means that HWiNFO's sensor readings can now be viewed in a web browser on any device connected to your home network, including phones and tablets. Thi",
+      "summary_ar": "",
+      "category": "Memory",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/355134/hwinfo-can-now-serve-sensor-readings-to-phones-and-tablets-over-your-network",
+      "published_at": "Mon, 23 Nov 2026 20:48:09 +0000"
+    },
+    {
+      "title": "ASUS Predicts Return to 8 GB of RAM as Budget PC Standard Soon",
+      "summary": "It's long been known that the RAM and general PC component crisis, and its  related price increases , would continue for some time, but it appears as though things are getting dire, even for bigger PC OEMs, like ASUS. According to ASUS co-CEO, S.Y. Hsu, in the ASUS Q3 2026 earnings call ( via StockAnalysis ), ASUS may soon have to return to shipping entry-level computers with as little as 8 GB of RAM. The CEO says th",
+      "summary_ar": "",
+      "category": "Memory",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/355133/asus-predicts-return-to-8-gb-of-ram-as-budget-pc-standard-soon",
+      "published_at": "Mon, 23 Nov 2026 20:29:51 +0000"
+    },
+    {
+      "title": "INNOCN Black Friday Monitor Deals: Save on QD-OLED Gaming, Ultrawide and 4K Displays",
+      "summary": "Looking to upgrade your gaming setup or add more screen space to your workstation? INNOCN is running Black Friday offers on eight monitors at Amazon US from November 19 through November 30, 2026. The lineup covers fast gaming displays, expansive ultrawide screens and sharp 4K monitors for everyday productivity. Here are the deals worth checking out. \n \n Gaming and ultrawide monitor deals  \n INNOCN 2780S  is a 27-inch",
+      "summary_ar": "",
+      "category": "Other",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/354930/innocn-black-friday-monitor-deals-save-on-qd-oled-gaming-ultrawide-and-4k-displays",
+      "published_at": "Mon, 23 Nov 2026 20:07:13 +0000"
+    },
+    {
+      "title": "Grab this $1199 Asus Prime RTX 5070 Ti for a 1440p or 4K gaming upgrade",
+      "summary": "RTX 5070 Ti graphics cards have been selling for close to twice their MSRP of late, but you can this Asus card for $1199 at Best Buy right now — the cheapest we've seen so far in the Black Friday frenzy.",
+      "summary_ar": "",
+      "category": "GPU",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/gpus/grab-this-usd1199-asus-prime-rtx-5070-ti-for-a-1440p-or-4k-gaming-upgrade-best-buy-deal-gets-you-into-high-end-blackwell-for-hundreds-less",
+      "published_at": "Mon, 23 Nov 2026 19:58:02 +0000"
+    },
+    {
+      "title": "Another GTA VI Glitch Unlocks Frame Rates on Xbox",
+      "summary": "Since the launch of Grand Theft Auto VI, which has so far been a commercial smash-hit, as expected, gamers have seemingly been trying their best to break the game as much as possible, despite the limitations of modern gaming consoles. The latest GTA VI hack, following the  prior first-person hack and DLSS 5 implementation , is a framerate unlock on Xbox Series X|S consoles that can apparently get the game running wel",
+      "summary_ar": "",
+      "category": "Memory",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/355125/another-gta-vi-glitch-unlocks-frame-rates-on-xbox",
+      "published_at": "Mon, 23 Nov 2026 19:56:28 +0000"
+    },
+    {
+      "title": "NVIDIA Employees Give Reinstated CEO, Jensen, A Hero’s Reception At Endeavor HQ, Hopes To Get An RTX Spark To Work On As His New PC",
+      "summary": "NVIDIA's CEO, Jensen Huang, is back in action and has visited the Santa Clara HQ as he returns to lead the company into a new beginning. Emotional Scenes Witnessed at NVIDIA's Santa Clara HQ As Employees Hug CEO Jensen On His Return Two weeks ago, NVIDIA announced that its CEO and Founder, Jensen Huang, had stepped down from the CEO position following a series of allegations. Soon after his departure, CFO Collette Kr",
+      "summary_ar": "",
+      "category": "GPU",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/nvidia-employees-give-reinstated-ceo-jensen-a-heros-reception-at-endeavor-hq/",
+      "published_at": "Mon, 23 Nov 2026 19:45:31 +0000"
+    },
+    {
+      "title": "Electric Intel Core Ultra 7 270K Plus deal knocks it down to just $232",
+      "summary": "The Intel Core Ultra 7 270K Plus is back in stock at Amazon for an all-time low price of just $232, over $80 off its average selling price.",
+      "summary_ar": "",
+      "category": "CPU",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/cpus/electric-intel-core-ultra-7-270k-plus-deal-knocks-it-down-to-just-usd232-25-percent-discount-marks-a-new-all-time-low-for-arrow-lake-refresh",
+      "published_at": "Mon, 23 Nov 2026 19:24:52 +0000"
+    },
+    {
+      "title": "Stock up on storage with 4TB T-Force G50 SSD at just $0.10 per GB",
+      "summary": "Team Group has an excellent deal on its 4TB T-Force G50 Evo, knocking the price down to just $0.10 per GB ahead on Black Friday.",
+      "summary_ar": "",
+      "category": "Memory",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/ssds/stock-up-on-storage-with-4tb-t-force-g50-ssd-at-just-usd0-10-per-gb-entry-level-pcie-4-0-drive-offers-decent-performance-and-lots-of-capacity",
+      "published_at": "Mon, 23 Nov 2026 18:11:09 +0000"
+    },
+    {
+      "title": "Crucial’s 1TB P310 SSD plummets to £122 at Amazon for Black Friday",
+      "summary": "Grab 1TB of premium SSD storage for your PC or PS5 in this Amazon Black Friday deal.",
+      "summary_ar": "",
+      "category": "Memory",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/ssds/crucials-1tb-p310-ssd-plummets-to-gbp122-at-amazon-for-black-friday-boost-your-playstation-5-or-pc-storage-for-less",
+      "published_at": "Mon, 23 Nov 2026 18:07:53 +0000"
+    },
+    {
+      "title": "Shuttle Launches NW10U Ultra-Compact Mini PC with Intel \"Wildcat Lake\" Processors",
+      "summary": "Shuttle has introduced the NW10U ultra-compact Mini PC based on Intel's &quot;Wildcat Lake&quot; platform. It supports Core 3, Core 5, and Core 7 processors with a 15 W TDP and up to 64 GB of DDR5-6400. The system measures 103 x 97 x 36.5 mm and has a volume of just 0.4 liters. Shuttle also equips the NW10U with an active heat-pipe cooling system and Smart Fan technology. The system is rated for continuous 24/7 opera",
+      "summary_ar": "",
+      "category": "CPU",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/355118/shuttle-launches-nw10u-ultra-compact-mini-pc-with-intel-wildcat-lake-processors",
+      "published_at": "Mon, 23 Nov 2026 18:05:12 +0000"
+    },
+    {
+      "title": "Penguin shows off photonic memory box at SC26 that can expand AI accelerator capacity over optical links",
+      "summary": "Penguin Solutions demonstrates external memory box with up to 576 GB of HBM3E and 16 TB of DDR5 inside that connects to hosts using optical links. There is a major caveat with this one as it does not seem to support existing servers and accelerators.",
+      "summary_ar": "",
+      "category": "Memory",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/dram/penguin-shows-off-photonic-memory-box-at-sc26-that-can-expand-ai-accelerator-capacity-over-optical-links-device-sports-up-to-576gb-of-hbm3e-customer-samples-expected-in-2027",
+      "published_at": "Mon, 23 Nov 2026 18:00:00 +0000"
+    },
+    {
+      "title": "(PR) Montage Technology Showcases Its Full Interconnect Portfolio at the 6th Gen AMD EPYC Processor Technology Summit",
+      "summary": "The 6th Gen AMD EPYC Processor Technology Summit convened on November 19 at the China World Hotel in Beijing. The event spotlighted innovations behind AMD's &quot;Zen 6&quot; architecture and the 6th Gen AMD EPYC processors, with a focus on the performance and application prospects of the AMD EPYC 9006 Series, alongside partner showcases of the latest server platforms and real-world deployments. Montage Technology, a",
+      "summary_ar": "",
+      "category": "CPU",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/355121/montage-technology-showcases-its-full-interconnect-portfolio-at-the-6th-gen-amd-epyc-processor-technology-summit",
+      "published_at": "Mon, 23 Nov 2026 17:28:53 +0000"
+    },
+    {
+      "title": "AMD's top-performing Ryzen 9850X3D is now the same price as the 9800X3D, an all-time low",
+      "summary": "AMD's king of gaming CPUs, the Ryzen 7 9850X3D, is down to its lowest price ever at $399 ahead of Black Friday.",
+      "summary_ar": "",
+      "category": "CPU",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amds-top-performing-ryzen-9800x3d-is-down-to-its-lowest-price-ever-at-usd399-get-the-fastest-gaming-cpu-and-save-usd80-off-list-price",
+      "published_at": "Mon, 23 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "title": "Save $2,000 on this sick Corsair RTX 5090 prebuilt gaming PC this Black Friday week",
+      "summary": "Most RTX 5090 prebuilts now run over five figures, but you can get this Corsair Vengeance system with 64GB of RAM and a 4TB SSD for $8999.99, or $2,000 off, this Black Friday deals week.",
+      "summary_ar": "",
+      "category": "GPU",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd2-000-on-this-sick-corsair-rtx-5090-prebuilt-gaming-pc-this-black-friday-week-awesome-rig-includes-9800x3d-power-64gb-of-ram-and-2tb-storage",
+      "published_at": "Mon, 23 Nov 2026 16:23:32 +0000"
+    },
+    {
+      "title": "Samsung Odyssey G8 G80SH 32-inch 4K OLED gaming monitor review: Color, performance and style",
+      "summary": "Samsung’s Odyssey G8 G80SH is a 32-inch Quantum Dot OLED with 4K resolution and 240 Hz. It delivers a huge color gamut along with smooth and responsive gaming and it supports HDR10+ with dynamic tone mapping.",
+      "summary_ar": "",
+      "category": "Other",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/monitors/gaming-monitors/samsung-odyssey-g8-g80sh-32-inch-4k-oled-gaming-monitor-review",
+      "published_at": "Mon, 23 Nov 2026 15:30:00 +0000"
+    },
+    {
+      "title": "Z.ai Debuts GLM-5.4 With a Novel Looped Transformer Architecture, Skipping AI Benchmarks Entirely",
+      "summary": "To squeeze more performance out of limited compute, China’s AI labs are increasingly turning to unconventional model architectures. Case in point: Z.ai just debuted GLM-5.4, a new model powered by a looped transformer architecture. By feeding tokens through the same transformer block — and the same set of weights — multiple times, the model progressively refines its output without bloating its parameter count. Z.ai w",
+      "summary_ar": "",
+      "category": "Memory",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/z-ai-debuts-glm-5-4-with-a-novel-looped-transformer-architecture-skipping-ai-benchmarks-entirely/",
+      "published_at": "Mon, 23 Nov 2026 14:32:12 +0000"
+    },
+    {
+      "title": "(PR) HighPoint Introduces PCIe Gen 5 Accelerator Expansion Solutions for NVIDIA RTX PRO Blackwell GPUs",
+      "summary": "HighPoint Technologies, Inc., a leader in high-performance PCIe interconnect and storage solutions, has introduced a new line of PCIe Accelerator Expansion (PAE) Solution bundles, designed to enable flexible NVIDIA Blackwell Workstation Edition (BWE) GPU deployment for challenging hardware environments. \n \nBy combining full-width PCIe Gen 5 x16 CopprLink connectivity, compact single-slot host adapters, and independen",
+      "summary_ar": "",
+      "category": "GPU",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/355112/highpoint-introduces-pcie-gen-5-accelerator-expansion-solutions-for-nvidia-rtx-pro-blackwell-gpus",
+      "published_at": "Mon, 23 Nov 2026 14:29:31 +0000"
+    },
+    {
+      "title": "AMD Ryzen 7 5800X3D Bundle With B550 Motherboard, 32 GB DDR4 RAM, And 1 TB SSD Drops To $451 As Soon As You Hit Newegg’s “Build With It” Button",
+      "summary": "This is probably the greatest AM4 deal you will find today, offering four components for nearly half the price. Newegg Slashes AM4 Bundle With Ryzen 5800X3D, 32 GB Memory, 1 TB SSD, and AM4 Motherboard to Just $451, Saving you Nearly $400 A four-item combo has been listed by Newegg for a limited-time deal. You might be aware of the current Black Friday deals at major retailers, but not every deal is worth taking a lo",
+      "summary_ar": "",
+      "category": "CPU",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/amd-ryzen-7-5800x3d-bundle-with-b550-motherboard-32-gb-ddr4-ram-and-1-tb-ssd-drops-to-451/",
+      "published_at": "Mon, 23 Nov 2026 14:00:00 +0000"
+    },
+    {
+      "title": "(PR) Samsung Launches the Odyssey G6: The World's First 1,100Hz Gaming Monitor",
+      "summary": "Samsung Electronics America today announced the launch of the 27-inch class Odyssey G6 (G60H), the world's first gaming monitor to support a refresh rate of up to 1,100 Hz in HD. The monitor also features Dual Mode, which allows players to choose between HD at up to 1,100 Hz and QHD at up to 600 Hz to suit their game and preferred play style. \n \nThe Odyssey G6 is designed for fast-paced gaming, where players need to ",
+      "summary_ar": "",
+      "category": "Other",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/355109/samsung-launches-the-odyssey-g6-the-worlds-first-1-100hz-gaming-monitor",
+      "published_at": "Mon, 23 Nov 2026 13:49:49 +0000"
+    },
+    {
+      "title": "The RTX 5090’s 16-pin connector just got a free pin-by-pin watchdog",
+      "summary": "RTX Lens, a free open-source Windows app, reads per-pin current from Asus ROG Astral GPUs, WireView Pro II and MSI PSUs.",
+      "summary_ar": "",
+      "category": "GPU",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/gpus/the-rtx-5090s-16-pin-connector-just-got-a-free-pin-by-pin-watchdog-rtx-lens-taps-asus-astral-wireview-pro-ii-and-msi-psu-sensors-to-alert-your-phone-or-shut-down-your-pc",
+      "published_at": "Mon, 23 Nov 2026 13:30:00 +0000"
+    },
+    {
+      "title": "ACEMAGIC’s Retro X5 Mini Gaming PC With 10-Core Zen 5 CPU, 32GB Memory, And 1 TB SSD Drops to $899 – 24GB Mini PCs Now Under $500!",
+      "summary": "Not one or two, but three ACEMAGIC mini PCs have gotten deep discounts, giving you a big opportunity to upgrade to a powerful configuration for your setup. ACEMAGIC Slashes $300 Off Retro X5 Mini Gaming PC, Bringing 32 GB + 1 TB Configuration to Just $899, While its Budget Intel and AMD Mini PCs are Now Under $500 If you were waiting for a substantial upgrade without getting half of your desk occupied by your PC, the",
+      "summary_ar": "",
+      "category": "CPU",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/acemagic-retro-x5-mini-gaming-pc-1-tb-ssd-drops-to-899-24gb-mini-pcs-under-500/",
+      "published_at": "Mon, 23 Nov 2026 13:25:36 +0000"
+    },
+    {
+      "title": "Intel’s 12 And 10 P-Core Bartlett Lake CPUs Now Reportedly Run Out Of The Box On MSI Z690 And Z790 Boards With Power Limits Unlocked",
+      "summary": "Thanks to the latest BIOS updates, Intel's \"Embedded\" P-Core-only Bartlett Lake CPUs can now work on several MSI motherboards out of the box. Latest MSI BIOS Now Supports Intel 12P and 10P Bartlett Lake CPUs on Z690 and Z790 Motherboards Without Modifying BIOS Running Intel's Bartlett Lake CPUs on consumer LGA 1700 motherboards, which launched for the embedded segment, is no longer a dream. Several months ago, it too",
+      "summary_ar": "",
+      "category": "CPU",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/intels-12-and-10-p-core-bartlett-lake-cpus-now-reportedly-run-out-of-the-box-on-msi-z690-and-z790-boards-with-power-limits-unlocked/",
+      "published_at": "Mon, 23 Nov 2026 13:10:40 +0000"
+    },
+    {
+      "title": "AI server makers hike prices up to 45% months after contracts are signed as RAM shortage triples memory-heavy CPU node costs",
+      "summary": "AI server OEMs are hiking prices post-contract up to 45% — financial firms building datacenters still pay up as \"the compute is valuable\"",
+      "summary_ar": "",
+      "category": "CPU",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/ai-server-makers-hike-prices-up-to-45-percent-months-after-contracts-are-signed-as-ram-shortage-triples-memory-heavy-cpu-node-costs-financial-firms-still-pay-up-as-the-compute-is-valuable",
+      "published_at": "Mon, 23 Nov 2026 12:30:00 +0000"
+    },
+    {
+      "title": "TechPowerUp x Formula V Line Giveaway: The Winners",
+      "summary": "TechPowerUp partnered with Formula V Line to bring our readers from around the world a chance to win a selection of dozens of Formula V Line hardware spanning the Formula V Line G10 case, Ice Nova Pro 3 AIO liquid CPU cooler, and Air Bridge VT Vision series case fans. We've received a great response from our readers on this Giveaway, and we are delighted to announce our 10 lucky winners. Without further ado, here the",
+      "summary_ar": "",
+      "category": "CPU",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/355107/techpowerup-x-formula-v-line-giveaway-the-winners",
+      "published_at": "Mon, 23 Nov 2026 12:28:16 +0000"
+    },
+    {
+      "title": "Walmart has slashed $1,090 off this RTX 5070 gaming laptop, nearly half price",
+      "summary": "Save nearly 50% on this HyperX gaming laptop with RTX 5070.",
+      "summary_ar": "",
+      "category": "GPU",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/laptops/gaming-laptops/walmart-has-slashed-usd1-090-off-this-rtx-5070-gaming-laptop-nearly-half-price-get-a-ryzen-9-powered-machine-for-just-usd1-299",
+      "published_at": "Mon, 23 Nov 2026 12:15:00 +0000"
+    },
+    {
+      "title": "Save $730 on this RTX 5070 Ti gaming PC from Cyberpower",
+      "summary": "An impressive gaming PC prebuilt with an RTX 5070 TI 16GB powering the graphics. All for just $2.479 in Walmart's Black Friday deal.",
+      "summary_ar": "",
+      "category": "GPU",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd730-on-this-rtx-5070-ti-gaming-pc-from-cyberpower-32gb-of-ram-16gb-of-vram-and-a-2tb-ssd-make-for-an-impressive-spec-sheet-for-only-usd2-479",
+      "published_at": "Mon, 23 Nov 2026 11:39:43 +0000"
+    },
+    {
+      "title": "Homelabber's $3,500 build straps four 32GB Nvidia V100s to a Lenovo mini PC for 128GB of VRAM",
+      "summary": "A homelab builder runs four used Nvidia Tesla V100 32GB GPUs off a Lenovo ThinkCentre M720q Tiny over OCuLink for 128GB of VRAM.",
+      "summary_ar": "",
+      "category": "GPU",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabbers-usd3-500-build-straps-four-32gb-nvidia-v100s-to-a-lenovo-mini-pc-for-128gb-of-vram-coreboot-oculink-docks-and-a-solder-bridge-unlock-285-tokens-sec-in-qwen3-8-27b",
+      "published_at": "Mon, 23 Nov 2026 11:00:00 +0000"
+    },
+    {
+      "title": "Intel \"Bartlett Lake-S\" CPUs Reportedly Boot Natively on MSI Z690/Z790 Motherboards",
+      "summary": "Intel's &quot;Bartlett Lake-S&quot; CPU series are reportedly booting natively without modifications on select MSI motherboards. Initially, Uniko's Hardware shared tests of the Intel Core 9 273PE with 12 P-cores and the Core 7 253PE with 10 P-cores on an MSI Z790 MPOWER motherboard, using a modified BIOS to boot and utilize the P-Core only SKUs. However, X user LovK2X successfully booted and operated a Core 9 273PE q",
+      "summary_ar": "",
+      "category": "CPU",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/355104/intel-bartlett-lake-s-cpus-reportedly-boot-natively-on-msi-z690-z790-motherboards",
+      "published_at": "Mon, 23 Nov 2026 10:59:20 +0000"
+    },
+    {
+      "title": "(PR) COLORFUL Launches iGame B850I MINI W OC Motherboard for Compact PC Enthusiasts",
+      "summary": "Colorful Technology Company Limited, a leading brand in gaming PC components, gaming laptops, and Hi-fi audio products, announces the launch of the iGame B850I MINI W OC, a white edition of its previously released iGame B850I MINI OC motherboard. Designed for enthusiasts building high-performance small form factor (SFF) systems, the new white model retains the same powerful hardware, overclocking capabilities, and co",
+      "summary_ar": "",
+      "category": "Other",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/355103/colorful-launches-igame-b850i-mini-w-oc-motherboard-for-compact-pc-enthusiasts",
+      "published_at": "Mon, 23 Nov 2026 10:41:07 +0000"
+    },
+    {
+      "title": "Canadian scalper places 40+ Nvidia RTX 5090s on Facebook Marketplace for over $6,600 apiece",
+      "summary": "Canadian scalper places 40+ Nvidia RTX 5090s on Facebook Marketplace for over 6,600 USD a piece — purportedly sold every unit quite quickly",
+      "summary_ar": "",
+      "category": "GPU",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/gpus/canadian-scalper-places-40-nvidia-rtx-5090s-on-facebook-marketplace-for-over-usd6-600-apiece-ironically-still-cheaper-than-memory-expresss-10-000-cad-retail-price-purportedly-selling-every-unit-quite-quickly",
+      "published_at": "Mon, 23 Nov 2026 10:30:00 +0000"
+    },
+    {
+      "title": "NVIDIA's SSD Writing Bug Needs Another Hotfix as Issue Returns",
+      "summary": "Last week, NVIDIA  released  the GeForce Hotfix 621.35 driver to address the issue of excessive SSD writing that many consumers reported on their systems. However, the problem might not be completely resolved, and another update could be necessary, as more reports of SSD writing are resurfacing in online communities. According to a Reddit thread, a user reported that the latest hotfix has reduced the peak writing rat",
+      "summary_ar": "",
+      "category": "GPU",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/355102/nvidias-ssd-writing-bug-needs-another-hotfix-as-issue-returns",
+      "published_at": "Mon, 23 Nov 2026 09:07:46 +0000"
+    },
+    {
+      "title": "JEDEC Previews DDR6 Memory Standard: 2.35x More Bandwidth, 44% Narrower DIMMs",
+      "summary": "JEDEC has unveiled the first specifications for DDR6 memory. Targeting over twice the bandwidth of DDR5, and with DIMMs 44% smaller, DDR6 is slated to be the biggest change in generations to the server memory standard \n The post  JEDEC Previews DDR6 Memory Standard: 2.35x More Bandwidth, 44% Narrower DIMMs  appeared first on  ServeTheHome .",
+      "summary_ar": "",
+      "category": "Memory",
+      "source": "ServeTheHome",
+      "url": "https://www.servethehome.com/jedec-previews-ddr6-memory-standard-2-35x-more-bandwidth-44-narrower-dimms/",
+      "published_at": "Fri, 20 Nov 2026 23:40:12 +0000"
+    }
+  ]
 }
