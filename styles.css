@@ -42,10 +42,7 @@ body.arabic .brand-byline{letter-spacing:1px}
 .manage-sources{color:#ffbd42;border-color:#76500f}
 .channel-cta,.footer-channel{color:#FFA200}
 .youtube-icon{background:#FFA200;color:#17120a}
-/* Trox is the requested display family; the font file is needed for web embedding. */
-body,body.arabic{font-family:"Trox","DM Sans",sans-serif}
-body .brand,body .hero h1,body .section h2,body .about-strip h2,body .creator-copy h2,body .news-card h3{font-family:"Trox","Space Grotesk",sans-serif}
-body.arabic .hero h1,body.arabic .section h2,body.arabic .about-strip h2,body.arabic .creator-copy h2{font-family:"Trox","Cairo",sans-serif}
+/* Trox is reserved for headings only; body copy keeps the site's normal font. */
 
 /* Full story reading page */
 .card-open{display:flex;flex-direction:column;flex:1;color:inherit;text-decoration:none}
@@ -75,3 +72,28 @@ body.arabic .hero h1,body.arabic .section h2,body.arabic .about-strip h2,body.ar
 body.arabic .article-content h1,body.arabic .article-body h2,body.arabic .article-body h3,body.arabic .article-body h4{font-family:"Cairo",sans-serif;letter-spacing:0}
 body.arabic .article-content,body.arabic .article-meta,body.arabic .article-deck,body.arabic .article-body,body.arabic .article-source{text-align:right}
 @media(max-width:650px){.article-shell{padding:28px 14px 60px}.article-content{padding:22px 18px}.article-source{align-items:stretch;flex-direction:column}.article-source .primary-button{justify-content:center}}
+
+/* Trox typography: headings only */
+.hero h1,
+.section h2,
+.about-strip h2,
+.creator-copy h2,
+.news-card h3,
+.article-content h1,
+.article-body h2,
+.article-body h3,
+.article-body h4{
+  font-family:"Trox","Space Grotesk","Cairo",sans-serif;
+}
+body.arabic .hero h1,
+body.arabic .section h2,
+body.arabic .about-strip h2,
+body.arabic .creator-copy h2,
+body.arabic .news-card h3,
+body.arabic .article-content h1,
+body.arabic .article-body h2,
+body.arabic .article-body h3,
+body.arabic .article-body h4{
+  font-family:"Trox","Cairo",sans-serif;
+  letter-spacing:0;
+}
