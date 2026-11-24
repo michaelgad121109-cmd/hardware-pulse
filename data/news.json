@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T10:19:34.524109+00:00",
+  "updated_at": "2026-11-24T10:20:29.306061+00:00",
   "sources_checked": 6,
   "feed_errors": [
     "AnandTech",
@@ -8,7 +8,7 @@
   "articles": [
     {
       "title": "Bull Shows Intel Xeon Diamond Rapids Package at SC26",
-      "summary": "Bull shows off an Intel Xeon Diamond Rapids LGA9324 package in its Sequana XH31600 platform at Supercomputing 2026 \n The post  Bull Shows Intel Xeon Diamond Rapids Package at SC26  appeared first on  ServeTheHome .",
+      "summary": "Bull shows off an Intel Xeon Diamond Rapids LGA9324 package in its Sequana XH31600 platform at Supercomputing 2026 The post Bull Shows Intel Xeon Diamond Rapids Package at SC26 appeared first on ServeTheHome .",
       "summary_ar": "",
       "category": "CPU",
       "source": "ServeTheHome",
@@ -53,7 +53,7 @@
     },
     {
       "title": "Put Your GPU to Work: Offline AI Video Enhancement with Aiarty (Black Friday Deal)",
-      "summary": "Modern GPUs are no longer used exclusively for gaming and 3D rendering. They also support an expanding range of local AI workloads, including image and video processing. For PC enthusiasts with large collections of older recordings, compressed clips, or low-resolution footage, AI video enhancement offers another practical use for desktop computing power. \n \nBrowser-based solutions such as NVIDIA RTX Video Super Resol",
+      "summary": "Modern GPUs are no longer used exclusively for gaming and 3D rendering. They also support an expanding range of local AI workloads, including image and video processing. For PC enthusiasts with large collections of older recordings, compressed clips, or low-resolution footage, AI video enhancement offers another practical use for desktop computing power. Browser-based solutions such as NVIDIA RTX Video Super Resoluti",
       "summary_ar": "",
       "category": "GPU",
       "source": "TechPowerUp",
@@ -62,7 +62,7 @@
     },
     {
       "title": "GIGABYTE and Newegg Bring \"AORUS VS40\" to Southern California in November 2026",
-      "summary": "GIGABYTE and Newegg will host AORUS VS40 at the Newegg Gamer Zone in City of Industry, California, on Saturday, November 21, 2026, from 11 a.m. to 4 p.m. PST. The event invites local collegiate PC gamers and hardware enthusiasts to celebrate 40 years of GIGABYTE by putting their skills to the test on the tournament floor and at gaming stations throughout the venue. \n \nGamers can flex their prowess in the AORUS VS40 t",
+      "summary": "GIGABYTE and Newegg will host AORUS VS40 at the Newegg Gamer Zone in City of Industry, California, on Saturday, November 21, 2026, from 11 a.m. to 4 p.m. PST. The event invites local collegiate PC gamers and hardware enthusiasts to celebrate 40 years of GIGABYTE by putting their skills to the test on the tournament floor and at gaming stations throughout the venue. Gamers can flex their prowess in the AORUS VS40 tour",
       "summary_ar": "",
       "category": "GPU",
       "source": "TechPowerUp",
@@ -71,7 +71,7 @@
     },
     {
       "title": "Jetway Intros MTX-RYZ1 Mini-ITX Industrial Board with Ryzen 7 PRO 8845HS",
-      "summary": "Jetway has introduced the MTX-RYZ1 Mini-ITX industrial motherboard built around the  Ryzen 7 PRO 8845HS . The AMD &quot;Hawk Point&quot; Zen 4 chip has 8 cores and 16 threads with a 3.8 GHz base clock, and it's aimed mostly at embedded systems and industrial applications. The two SO-DIMM slots support up to 96 GB of DDR5-5600, with both ECC and non-ECC modules supported. For storage, the motherboard has two SATA III ",
+      "summary": "Jetway has introduced the MTX-RYZ1 Mini-ITX industrial motherboard built around the Ryzen 7 PRO 8845HS . The AMD &quot;Hawk Point&quot; Zen 4 chip has 8 cores and 16 threads with a 3.8 GHz base clock, and it's aimed mostly at embedded systems and industrial applications. The two SO-DIMM slots support up to 96 GB of DDR5-5600, with both ECC and non-ECC modules supported. For storage, the motherboard has two SATA III p",
       "summary_ar": "",
       "category": "CPU",
       "source": "TechPowerUp",
@@ -80,7 +80,7 @@
     },
     {
       "title": "GTA 6 Easter Egg Opens a Portal to the Original 2002 Vice City",
-      "summary": "It's well known that Rockstar loves its Easter eggs, but this one might just be the best one yet. Apparently, there is a time-traveling Easter egg in GTA 6 that takes you back to the original Vice City from 2002. Australian YouTuber  Memeio  found the complex Easter egg and published a guide on how to solve it, unlocking a trip down memory lane straight to the Malibu Club in Vice City. The best part is that Rockstar ",
+      "summary": "It's well known that Rockstar loves its Easter eggs, but this one might just be the best one yet. Apparently, there is a time-traveling Easter egg in GTA 6 that takes you back to the original Vice City from 2002. Australian YouTuber Memeio found the complex Easter egg and published a guide on how to solve it, unlocking a trip down memory lane straight to the Malibu Club in Vice City. The best part is that Rockstar ke",
       "summary_ar": "",
       "category": "Memory",
       "source": "TechPowerUp",
@@ -98,7 +98,7 @@
     },
     {
       "title": "TCL Debuts 120 Hz IPS LCD Drawing Just 1 W in Lenovo Yoga Prototype Laptop",
-      "summary": "TCL CSOT has been working on some significant display innovations recently, including its recent  announcement of 1250 Hz QHD OLED monitors  at DTC 2026. Also at DTC 2026, TCL has reportedly ( via Notebookcheck ) shown off a new 14-inch LCD prototype drawing as little as 1 W of power in a new Lenovo Yoga Pro laptop prototype. While it's unknown exactly what luminance settings and refresh rates are used to bring the p",
+      "summary": "TCL CSOT has been working on some significant display innovations recently, including its recent announcement of 1250 Hz QHD OLED monitors at DTC 2026. Also at DTC 2026, TCL has reportedly ( via Notebookcheck ) shown off a new 14-inch LCD prototype drawing as little as 1 W of power in a new Lenovo Yoga Pro laptop prototype. While it's unknown exactly what luminance settings and refresh rates are used to bring the pow",
       "summary_ar": "",
       "category": "GPU",
       "source": "TechPowerUp",
@@ -125,7 +125,7 @@
     },
     {
       "title": "Intel's Cheapest Arc G3 Handheld Chip Reportedly Called \"Arc G3 Play\"",
-      "summary": "Videocardz  reports that Intel is working on a new Arc G3 handheld chip, called Arc G3 Play, for affordable handhelds. The report says that this part will slot in below the  Arc G3 and G3 Extreme , and will have just four Xe3 GPU cores. The Arc G3 has 10 Xe3 cores, while the top-end Xe3 Extreme has 12. This new chip will sit below both existing SKUs and target cheaper handhelds. The CPU configuration is not well-know",
+      "summary": "Videocardz reports that Intel is working on a new Arc G3 handheld chip, called Arc G3 Play, for affordable handhelds. The report says that this part will slot in below the Arc G3 and G3 Extreme , and will have just four Xe3 GPU cores. The Arc G3 has 10 Xe3 cores, while the top-end Xe3 Extreme has 12. This new chip will sit below both existing SKUs and target cheaper handhelds. The CPU configuration is not well-known ",
       "summary_ar": "",
       "category": "GPU",
       "source": "TechPowerUp",
@@ -134,7 +134,7 @@
     },
     {
       "title": "Intel Lands an Unnamed External Customer for Its 18A-P Node",
-      "summary": "Intel CEO Lip-Bu Tan says the company has signed its first outside customer for 18A, although he kept the customer anonymous. It was first reported by  CNBC  that Tan mentioned the Intel 18A node while speaking at the TomorrowX Summit in Austin last Wednesday, but Intel CTO Pushkar Ranade later  confirmed on X  that the deal was for 18A-P specifically. That node entered risk production in June, and Intel claims it of",
+      "summary": "Intel CEO Lip-Bu Tan says the company has signed its first outside customer for 18A, although he kept the customer anonymous. It was first reported by CNBC that Tan mentioned the Intel 18A node while speaking at the TomorrowX Summit in Austin last Wednesday, but Intel CTO Pushkar Ranade later confirmed on X that the deal was for 18A-P specifically. That node entered risk production in June, and Intel claims it offers",
       "summary_ar": "",
       "category": "CPU",
       "source": "TechPowerUp",
@@ -215,7 +215,7 @@
     },
     {
       "title": "Phison Previews an SSD That Runs AI Frameworks on Its Own NPU",
-      "summary": "Everyone's going all in on AI, so SSD manufacturers were not going to be left behind. Phison has  detailed  an enterprise SSD design that can run AI frameworks on the drive itself. At the Supercomputing 2026 (SC26) event in Chicago, the company showed off the computational storage design that hosts both an NPU and 64 GB of onboard memory running at 130 GB/s. It also supports PyTorch, vLLM, OpenVINO, and llama.ccp. Ph",
+      "summary": "Everyone's going all in on AI, so SSD manufacturers were not going to be left behind. Phison has detailed an enterprise SSD design that can run AI frameworks on the drive itself. At the Supercomputing 2026 (SC26) event in Chicago, the company showed off the computational storage design that hosts both an NPU and 64 GB of onboard memory running at 130 GB/s. It also supports PyTorch, vLLM, OpenVINO, and llama.ccp. Phis",
       "summary_ar": "",
       "category": "Memory",
       "source": "TechPowerUp",
@@ -224,7 +224,7 @@
     },
     {
       "title": "Intel Nova Lake-H Spec Sheet Shows Up With a 4.8 GHz Boost and 25 W TDP",
-      "summary": "As we move closer to Nova Lake's eventual launch, more and more details are surfacing about the various lineups under that umbrella. We covered the sighting of the  28-core Intel &quot;Nova Lake-S&quot;  desktop CPU on Openbenchmark today, and now we have an early look at the Nova Lake-H lineup. Advantech's  preliminary datasheet  for the ASR-A505 model gives us a glance at the Core Ultra Series 4 &quot;Nova Lake-H&q",
+      "summary": "As we move closer to Nova Lake's eventual launch, more and more details are surfacing about the various lineups under that umbrella. We covered the sighting of the 28-core Intel &quot;Nova Lake-S&quot; desktop CPU on Openbenchmark today, and now we have an early look at the Nova Lake-H lineup. Advantech's preliminary datasheet for the ASR-A505 model gives us a glance at the Core Ultra Series 4 &quot;Nova Lake-H&quot;",
       "summary_ar": "",
       "category": "CPU",
       "source": "TechPowerUp",
@@ -242,7 +242,7 @@
     },
     {
       "title": "SilverStone Equips HELA 1350Rz With Three EPS Cables, Citing Nova Lake-S \"High Power Demands\"",
-      "summary": "SilverStone has published the product page for the  HELA 1350Rz  on its website, which is a 1350 W, ATX 3.1 PSU with 80 Plus Platinum certification. It is a fully modular PSU, but the interesting bit is that it ships with three 4+4-pin EPS cables, whereas PSU units in this class usually come with two. SilverStone's reasoning is that the extra cable is there for the &quot;high power demands of Intel NVL-S CPUs,&quot; ",
+      "summary": "SilverStone has published the product page for the HELA 1350Rz on its website, which is a 1350 W, ATX 3.1 PSU with 80 Plus Platinum certification. It is a fully modular PSU, but the interesting bit is that it ships with three 4+4-pin EPS cables, whereas PSU units in this class usually come with two. SilverStone's reasoning is that the extra cable is there for the &quot;high power demands of Intel NVL-S CPUs,&quot; re",
       "summary_ar": "",
       "category": "GPU",
       "source": "TechPowerUp",
@@ -251,7 +251,7 @@
     },
     {
       "title": "Sony's Patented Collar Would Blow Air on Players, Likely During VR Games",
-      "summary": "If you're familiar with Sony's patents, you know they can be  quite ambitious  sometimes. Continuing that trend, Sony Interactive Entertainment recently filed a patent application for a curved neckband with air vents on the inner side that would blow air towards the wearer's neck, chin, and face. The filing (US 2026/0357800 A1), spotted by  Patentlyze , went public on November 12. Sony itself describes the goal as a ",
+      "summary": "If you're familiar with Sony's patents, you know they can be quite ambitious sometimes. Continuing that trend, Sony Interactive Entertainment recently filed a patent application for a curved neckband with air vents on the inner side that would blow air towards the wearer's neck, chin, and face. The filing (US 2026/0357800 A1), spotted by Patentlyze , went public on November 12. Sony itself describes the goal as a way",
       "summary_ar": "",
       "category": "Memory",
       "source": "TechPowerUp",
@@ -269,7 +269,7 @@
     },
     {
       "title": "GPD Win Mini Ultra Pricing Confirmed: Intel Arc G3 Extreme Handheld Starts at $1,699",
-      "summary": "GPD has officially published pricing details for the Win Mini Ultra, following the  gaming handheld's spec sheet previously being published  ahead of the full launch. According to a recent  post on X , the Win Mini Ultra will initially be available with 32 GB of RAM and 1 TB of SSD storage, which will sell for $1,699 on  Indiegogo . That version of the handheld will ship with  Intel's Arc G3 Extreme CPU  and Arc B390",
+      "summary": "GPD has officially published pricing details for the Win Mini Ultra, following the gaming handheld's spec sheet previously being published ahead of the full launch. According to a recent post on X , the Win Mini Ultra will initially be available with 32 GB of RAM and 1 TB of SSD storage, which will sell for $1,699 on Indiegogo . That version of the handheld will ship with Intel's Arc G3 Extreme CPU and Arc B390 iGPU,",
       "summary_ar": "",
       "category": "GPU",
       "source": "TechPowerUp",
@@ -278,7 +278,7 @@
     },
     {
       "title": "GTA 6 Glitch Enables First-Person POV and Open-Source App Adds 120 FPS with DLSS 5",
-      "summary": "Despite the game's immensely positive reception, there has been a lot of chatter online about performance issues with Grand Theft Auto VI, with several reports now circulating that the  graphically intensive nature of the game appears to be causing issues with aging liquid metal TIM on PS5s . One solution that PC enthusiasts have been experimenting with is running GTA VI via game streaming and injecting DLSS5 into th",
+      "summary": "Despite the game's immensely positive reception, there has been a lot of chatter online about performance issues with Grand Theft Auto VI, with several reports now circulating that the graphically intensive nature of the game appears to be causing issues with aging liquid metal TIM on PS5s . One solution that PC enthusiasts have been experimenting with is running GTA VI via game streaming and injecting DLSS5 into the",
       "summary_ar": "",
       "category": "Memory",
       "source": "TechPowerUp",
@@ -287,7 +287,7 @@
     },
     {
       "title": "Report: Samsung's 2027 DRAM Supply Is Effectively Sold Out",
-      "summary": "If the global memory crisis wasn't already bad enough, it looks like relief is still quite a few years away. An exclusive report from South Korea's  Economy Tribune  says that most of Samsung's memory production capacity for 2027 through 2029 is already spoken for. The outlet says customers are already eyeing long-term agreements (LTAs) that run to 2031, and most are asking Samsung for volume beyond what they have al",
+      "summary": "If the global memory crisis wasn't already bad enough, it looks like relief is still quite a few years away. An exclusive report from South Korea's Economy Tribune says that most of Samsung's memory production capacity for 2027 through 2029 is already spoken for. The outlet says customers are already eyeing long-term agreements (LTAs) that run to 2031, and most are asking Samsung for volume beyond what they have alre",
       "summary_ar": "",
       "category": "Memory",
       "source": "TechPowerUp",
@@ -305,7 +305,7 @@
     },
     {
       "title": "(PR) CyberPowerPC Expands AI Workstation Line with Compact AMD Ryzen AI Max+ 395 Powered Desktop",
-      "summary": "CyberPowerPC, a leading manufacturer of high-performance custom PCs, gaming rigs, and workstations, today announced its compact AI Workstation ASRock AI BOX-A395, powered by the AMD Ryzen AI Max+ 395 processor. The company also previewed its upcoming enterprise-grade AMD Ryzen AI Max+ PRO 495 AI Workstation Series, planned for release in Q4 2026. \n \nDesigned to bring powerful computing capabilities to a compact deskt",
+      "summary": "CyberPowerPC, a leading manufacturer of high-performance custom PCs, gaming rigs, and workstations, today announced its compact AI Workstation ASRock AI BOX-A395, powered by the AMD Ryzen AI Max+ 395 processor. The company also previewed its upcoming enterprise-grade AMD Ryzen AI Max+ PRO 495 AI Workstation Series, planned for release in Q4 2026. Designed to bring powerful computing capabilities to a compact desktop ",
       "summary_ar": "",
       "category": "GPU",
       "source": "TechPowerUp",
@@ -323,7 +323,7 @@
     },
     {
       "title": "HWiNFO Can Now Serve Sensor Readings to Phones and Tablets Over Your Network",
-      "summary": "HWiNFO has released  version 8.61 Beta  (build 6125), which adds a built-in  REST API server . That addition now allows HWiNFO to serve every tracked sensor as JSON over HTTP or HTTPS, along with details such as units, descriptions, and sensor groupings. This basically means that HWiNFO's sensor readings can now be viewed in a web browser on any device connected to your home network, including phones and tablets. Thi",
+      "summary": "HWiNFO has released version 8.61 Beta (build 6125), which adds a built-in REST API server . That addition now allows HWiNFO to serve every tracked sensor as JSON over HTTP or HTTPS, along with details such as units, descriptions, and sensor groupings. This basically means that HWiNFO's sensor readings can now be viewed in a web browser on any device connected to your home network, including phones and tablets. This d",
       "summary_ar": "",
       "category": "Memory",
       "source": "TechPowerUp",
@@ -332,7 +332,7 @@
     },
     {
       "title": "ASUS Predicts Return to 8 GB of RAM as Budget PC Standard Soon",
-      "summary": "It's long been known that the RAM and general PC component crisis, and its  related price increases , would continue for some time, but it appears as though things are getting dire, even for bigger PC OEMs, like ASUS. According to ASUS co-CEO, S.Y. Hsu, in the ASUS Q3 2026 earnings call ( via StockAnalysis ), ASUS may soon have to return to shipping entry-level computers with as little as 8 GB of RAM. The CEO says th",
+      "summary": "It's long been known that the RAM and general PC component crisis, and its related price increases , would continue for some time, but it appears as though things are getting dire, even for bigger PC OEMs, like ASUS. According to ASUS co-CEO, S.Y. Hsu, in the ASUS Q3 2026 earnings call ( via StockAnalysis ), ASUS may soon have to return to shipping entry-level computers with as little as 8 GB of RAM. The CEO says tha",
       "summary_ar": "",
       "category": "Memory",
       "source": "TechPowerUp",
@@ -341,7 +341,7 @@
     },
     {
       "title": "INNOCN Black Friday Monitor Deals: Save on QD-OLED Gaming, Ultrawide and 4K Displays",
-      "summary": "Looking to upgrade your gaming setup or add more screen space to your workstation? INNOCN is running Black Friday offers on eight monitors at Amazon US from November 19 through November 30, 2026. The lineup covers fast gaming displays, expansive ultrawide screens and sharp 4K monitors for everyday productivity. Here are the deals worth checking out. \n \n Gaming and ultrawide monitor deals  \n INNOCN 2780S  is a 27-inch",
+      "summary": "Looking to upgrade your gaming setup or add more screen space to your workstation? INNOCN is running Black Friday offers on eight monitors at Amazon US from November 19 through November 30, 2026. The lineup covers fast gaming displays, expansive ultrawide screens and sharp 4K monitors for everyday productivity. Here are the deals worth checking out. Gaming and ultrawide monitor deals INNOCN 2780S is a 27-inch QD-OLED",
       "summary_ar": "",
       "category": "Other",
       "source": "TechPowerUp",
@@ -359,7 +359,7 @@
     },
     {
       "title": "Another GTA VI Glitch Unlocks Frame Rates on Xbox",
-      "summary": "Since the launch of Grand Theft Auto VI, which has so far been a commercial smash-hit, as expected, gamers have seemingly been trying their best to break the game as much as possible, despite the limitations of modern gaming consoles. The latest GTA VI hack, following the  prior first-person hack and DLSS 5 implementation , is a framerate unlock on Xbox Series X|S consoles that can apparently get the game running wel",
+      "summary": "Since the launch of Grand Theft Auto VI, which has so far been a commercial smash-hit, as expected, gamers have seemingly been trying their best to break the game as much as possible, despite the limitations of modern gaming consoles. The latest GTA VI hack, following the prior first-person hack and DLSS 5 implementation , is a framerate unlock on Xbox Series X|S consoles that can apparently get the game running well",
       "summary_ar": "",
       "category": "Memory",
       "source": "TechPowerUp",
@@ -467,7 +467,7 @@
     },
     {
       "title": "(PR) HighPoint Introduces PCIe Gen 5 Accelerator Expansion Solutions for NVIDIA RTX PRO Blackwell GPUs",
-      "summary": "HighPoint Technologies, Inc., a leader in high-performance PCIe interconnect and storage solutions, has introduced a new line of PCIe Accelerator Expansion (PAE) Solution bundles, designed to enable flexible NVIDIA Blackwell Workstation Edition (BWE) GPU deployment for challenging hardware environments. \n \nBy combining full-width PCIe Gen 5 x16 CopprLink connectivity, compact single-slot host adapters, and independen",
+      "summary": "HighPoint Technologies, Inc., a leader in high-performance PCIe interconnect and storage solutions, has introduced a new line of PCIe Accelerator Expansion (PAE) Solution bundles, designed to enable flexible NVIDIA Blackwell Workstation Edition (BWE) GPU deployment for challenging hardware environments. By combining full-width PCIe Gen 5 x16 CopprLink connectivity, compact single-slot host adapters, and independent G",
       "summary_ar": "",
       "category": "GPU",
       "source": "TechPowerUp",
@@ -485,7 +485,7 @@
     },
     {
       "title": "(PR) Samsung Launches the Odyssey G6: The World's First 1,100Hz Gaming Monitor",
-      "summary": "Samsung Electronics America today announced the launch of the 27-inch class Odyssey G6 (G60H), the world's first gaming monitor to support a refresh rate of up to 1,100 Hz in HD. The monitor also features Dual Mode, which allows players to choose between HD at up to 1,100 Hz and QHD at up to 600 Hz to suit their game and preferred play style. \n \nThe Odyssey G6 is designed for fast-paced gaming, where players need to ",
+      "summary": "Samsung Electronics America today announced the launch of the 27-inch class Odyssey G6 (G60H), the world's first gaming monitor to support a refresh rate of up to 1,100 Hz in HD. The monitor also features Dual Mode, which allows players to choose between HD at up to 1,100 Hz and QHD at up to 600 Hz to suit their game and preferred play style. The Odyssey G6 is designed for fast-paced gaming, where players need to tra",
       "summary_ar": "",
       "category": "Other",
       "source": "TechPowerUp",
@@ -593,7 +593,7 @@
     },
     {
       "title": "NVIDIA's SSD Writing Bug Needs Another Hotfix as Issue Returns",
-      "summary": "Last week, NVIDIA  released  the GeForce Hotfix 621.35 driver to address the issue of excessive SSD writing that many consumers reported on their systems. However, the problem might not be completely resolved, and another update could be necessary, as more reports of SSD writing are resurfacing in online communities. According to a Reddit thread, a user reported that the latest hotfix has reduced the peak writing rat",
+      "summary": "Last week, NVIDIA released the GeForce Hotfix 621.35 driver to address the issue of excessive SSD writing that many consumers reported on their systems. However, the problem might not be completely resolved, and another update could be necessary, as more reports of SSD writing are resurfacing in online communities. According to a Reddit thread, a user reported that the latest hotfix has reduced the peak writing rate ",
       "summary_ar": "",
       "category": "GPU",
       "source": "TechPowerUp",
@@ -602,7 +602,7 @@
     },
     {
       "title": "JEDEC Previews DDR6 Memory Standard: 2.35x More Bandwidth, 44% Narrower DIMMs",
-      "summary": "JEDEC has unveiled the first specifications for DDR6 memory. Targeting over twice the bandwidth of DDR5, and with DIMMs 44% smaller, DDR6 is slated to be the biggest change in generations to the server memory standard \n The post  JEDEC Previews DDR6 Memory Standard: 2.35x More Bandwidth, 44% Narrower DIMMs  appeared first on  ServeTheHome .",
+      "summary": "JEDEC has unveiled the first specifications for DDR6 memory. Targeting over twice the bandwidth of DDR5, and with DIMMs 44% smaller, DDR6 is slated to be the biggest change in generations to the server memory standard The post JEDEC Previews DDR6 Memory Standard: 2.35x More Bandwidth, 44% Narrower DIMMs appeared first on ServeTheHome .",
       "summary_ar": "",
       "category": "Memory",
       "source": "ServeTheHome",
