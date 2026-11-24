@@ -46,6 +46,22 @@ def clean_html(value):
     value = re.sub(r"<[^>]+>", " ", value or "")
     return re.sub(r"\s+", " ", value).strip()
 
+def translate_html(client, title, html):
+    if not client or not html:
+        return ""
+    try:
+        response = client.responses.create(
+            model=os.getenv("OPENAI_MODEL", "gpt-4.1-mini"),
+            input=[
+                {"role": "system", "content": "Translate the supplied hardware-news HTML into natural Arabic. Preserve every HTML tag, nesting, attributes, links, lists, headings, paragraphs, emphasis and line breaks exactly. Translate only visible text. Do not add facts or remove content. Return HTML only."},
+                {"role": "user", "content": f"Headline: {title}\\nHTML:\\n{html[:12000]}"},
+            ],
+        )
+        return response.output_text.strip()
+    except Exception as error:
+        print(f"HTML translation fallback: {error}")
+        return ""
+
 def summarize(client, title, description, language="English"):
     clean = clean_html(description)
     if not client:
@@ -82,6 +98,10 @@ def main():
                 title = (entry.get("title") or "").strip()
                 link = entry.get("link", "")
                 description = entry.get("summary") or entry.get("description") or ""
+                content_blocks = entry.get("content") or []
+                original_html = (content_blocks[0].get("value", "") if content_blocks else "") or entry.get("summary_detail", {}).get("value", "") or description
+                if not original_html:
+                    original_html = f"<p>{title}</p>"
                 cat = category(title + " " + clean_html(description))
                 if not title or not link.startswith(("http://", "https://")) or not cat:
                     continue
@@ -94,6 +114,8 @@ def main():
                     "title": title,
                     "summary": summarize(client, title, description, "English"),
                     "summary_ar": summarize(client, title, description, "Arabic") if client else "",
+                    "content_html": original_html[:12000],
+                    "content_ar_html": translate_html(client, title, original_html) if client else "",
                     "category": cat, "source": name, "url": link, "published_at": published,
                 })
                 added += 1
