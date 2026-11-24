@@ -25,3 +25,24 @@ body.arabic .section-tools{align-items:flex-start}
 body.arabic .card-meta,body.arabic .card-footer{direction:rtl}
 body.arabic .brand-byline{letter-spacing:1px}
 @media(max-width:760px){.section-tools{align-items:stretch;width:100%}.manage-sources{align-self:flex-start}.filters{width:100%}}
+
+/* Mikey Tech brand color: #FFA200 */
+:root{--cyan:#FFA200}
+.brand-mark{background:linear-gradient(135deg,#FFA200,#ffbf47);color:#111}
+.accent,.ticker-label,.category,.read-link{color:#FFA200}
+.gradient-text{background:linear-gradient(90deg,#FFA200,#ffd06a);-webkit-background-clip:text;background-clip:text}
+.primary-button{background:linear-gradient(100deg,#FFA200,#ffbd42);color:#17120a}
+.pulse,.live-dot:before{background:#FFA200;box-shadow:0 0 13px #FFA200}
+.chip{border-color:#FFA200;box-shadow:0 0 60px #FFA20033,inset 0 0 35px #FFA20022}
+.chip-inner{color:#FFA200}.chip:before{border-color:#FFA20066}.chip:after{border-color:#ffd06a55}
+.hero-art{background:radial-gradient(ellipse at center,#39270e 0%,#171622 37%,#090b12 72%);border-color:#4a3517}
+.orbit{border-color:#FFA20055}.orbit-two{border-color:#ffd06a33}
+.filters button.selected,.filters button:hover{background:#38280f;border-color:#8b5b0a;color:#ffbd42}
+.news-card:hover{border-color:#FFA200}
+.manage-sources{color:#ffbd42;border-color:#76500f}
+.channel-cta,.footer-channel{color:#FFA200}
+.youtube-icon{background:#FFA200;color:#17120a}
+/* Trox is the requested display family; the font file is needed for web embedding. */
+body,body.arabic{font-family:"Trox","DM Sans",sans-serif}
+body .brand,body .hero h1,body .section h2,body .about-strip h2,body .creator-copy h2,body .news-card h3{font-family:"Trox","Space Grotesk",sans-serif}
+body.arabic .hero h1,body.arabic .section h2,body.arabic .about-strip h2,body.arabic .creator-copy h2{font-family:"Trox","Cairo",sans-serif}
