@@ -1,7 +1,8 @@
-import os, json, re, hashlib
+import os, json, re, hashlib, html
 from datetime import datetime, timezone
 from pathlib import Path
 import feedparser
+import trafilatura
 from openai import OpenAI
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -44,7 +45,24 @@ def load_sources():
 
 def clean_html(value):
     value = re.sub(r"<[^>]+>", " ", value or "")
-    return re.sub(r"\s+", " ", value).strip()
+    return re.sub(r"\\s+", " ", html.unescape(value)).strip()
+
+def get_full_article(url, rss_html):
+    """Prefer the publicly readable article body; fall back to the publisher's RSS content."""
+    try:
+        downloaded = trafilatura.fetch_url(url)
+        if downloaded:
+            extracted = trafilatura.extract(
+                downloaded, output_format="html", include_comments=False,
+                include_tables=True, include_images=True, include_links=True,
+                favor_recall=True
+            )
+            if extracted and len(clean_html(extracted)) > max(500, len(clean_html(rss_html)) * 1.15):
+                print(f"Fetched full article body: {url}")
+                return extracted[:50000]
+    except Exception as error:
+        print(f"Full article extraction fallback [{url}]: {error}")
+    return html.unescape(rss_html or "")
 
 def translate_text(client, text_value):
     if not client or not text_value:
@@ -62,15 +80,15 @@ def translate_text(client, text_value):
         print(f"Headline translation fallback: {error}")
         return ""
 
-def translate_html(client, title, html):
-    if not client or not html:
+def translate_html(client, title, content):
+    if not client or not content:
         return ""
     try:
         response = client.responses.create(
             model=os.getenv("OPENAI_MODEL", "gpt-4.1-mini"),
             input=[
-                {"role": "system", "content": "Translate the supplied hardware-news HTML into natural Arabic. Preserve every HTML tag, nesting, attributes, links, lists, headings, paragraphs, emphasis and line breaks exactly. Translate only visible text. Do not add facts or remove content. Return HTML only."},
-                {"role": "user", "content": f"Headline: {title}\\nHTML:\\n{html[:12000]}"},
+                {"role": "system", "content": "Translate the supplied hardware-news article HTML into natural Arabic. Preserve every HTML tag, nesting, attributes, links, lists, headings, paragraphs, emphasis, tables, images and line breaks exactly. Translate only visible text. Do not summarize, omit sections, or invent facts. Return the complete translated HTML only."},
+                {"role": "user", "content": f"Headline: {title}\\nArticle HTML:\\n{content[:30000]}"},
             ],
         )
         return response.output_text.strip()
@@ -97,6 +115,8 @@ def summarize(client, title, description, language="English"):
 
 def main():
     client = OpenAI() if os.getenv("OPENAI_API_KEY") else None
+    if not client:
+        print("OPENAI_API_KEY is not configured: Arabic translations will remain unavailable.")
     articles, seen, feed_errors = [], set(), []
     sources = load_sources()
     for source in sources:
@@ -115,9 +135,9 @@ def main():
                 link = entry.get("link", "")
                 description = entry.get("summary") or entry.get("description") or ""
                 content_blocks = entry.get("content") or []
-                original_html = (content_blocks[0].get("value", "") if content_blocks else "") or entry.get("summary_detail", {}).get("value", "") or description
-                if not original_html:
-                    original_html = f"<p>{title}</p>"
+                rss_html = (content_blocks[0].get("value", "") if content_blocks else "") or entry.get("summary_detail", {}).get("value", "") or description
+                if not rss_html:
+                    rss_html = f"<p>{title}</p>"
                 cat = category(title + " " + clean_html(description))
                 if not title or not link.startswith(("http://", "https://")) or not cat:
                     continue
@@ -125,14 +145,15 @@ def main():
                 if key in seen:
                     continue
                 seen.add(key)
+                full_html = get_full_article(link, rss_html)
                 published = entry.get("published") or entry.get("updated") or datetime.now(timezone.utc).isoformat()
                 articles.append({
                     "title": title,
-                    "title_ar": translate_text(client, title) if client else "",
+                    "title_ar": translate_text(client, title),
                     "summary": summarize(client, title, description, "English"),
                     "summary_ar": summarize(client, title, description, "Arabic") if client else "",
-                    "content_html": original_html[:12000],
-                    "content_ar_html": translate_html(client, title, original_html) if client else "",
+                    "content_html": full_html,
+                    "content_ar_html": translate_html(client, title, full_html),
                     "category": cat, "source": name, "url": link, "published_at": published,
                 })
                 added += 1
