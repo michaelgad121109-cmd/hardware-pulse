@@ -131,6 +131,8 @@ def main():
                 continue
             added = 0
             for entry in feed.entries[:50]:
+                if len(articles) >= 80:
+                    break
                 title = (entry.get("title") or "").strip()
                 link = entry.get("link", "")
                 description = entry.get("summary") or entry.get("description") or ""
