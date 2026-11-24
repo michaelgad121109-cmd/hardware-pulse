@@ -45,7 +45,7 @@ def load_sources():
 
 def clean_html(value):
     value = re.sub(r"<[^>]+>", " ", value or "")
-    return re.sub(r"\\s+", " ", html.unescape(value)).strip()
+    return re.sub(r"\s+", " ", html.unescape(value)).strip()
 
 def get_full_article(url, rss_html):
     """Prefer the publicly readable article body; fall back to the publisher's RSS content."""
