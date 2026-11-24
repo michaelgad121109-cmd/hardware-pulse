@@ -10,6 +10,9 @@ on:
       - "requirements.txt"
 permissions:
   contents: read
+concurrency:
+  group: hardware-pulse-news-feed
+  cancel-in-progress: false
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -32,4 +35,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/news.json
           git diff --cached --quiet || git commit -m "chore: update hardware news feed"
+          git pull --rebase origin main
           git push
