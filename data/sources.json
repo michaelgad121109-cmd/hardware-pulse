@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Tom's Hardware",
+    "url": "https://www.tomshardware.com/feeds/all",
+    "enabled": true
+  },
+  {
+    "name": "Wccftech",
+    "url": "https://wccftech.com/feed/",
+    "enabled": true
+  },
+  {
+    "name": "TechPowerUp",
+    "url": "https://www.techpowerup.com/rss/news",
+    "enabled": true
+  },
+  {
+    "name": "AnandTech",
+    "url": "https://www.anandtech.com/rss/",
+    "enabled": true
+  },
+  {
+    "name": "VideoCardz",
+    "url": "https://videocardz.com/feed",
+    "enabled": true
+  },
+  {
+    "name": "ServeTheHome",
+    "url": "https://www.servethehome.com/feed/",
+    "enabled": true
+  }
+]
