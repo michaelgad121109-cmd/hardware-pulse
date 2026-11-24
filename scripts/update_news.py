@@ -46,6 +46,22 @@ def clean_html(value):
     value = re.sub(r"<[^>]+>", " ", value or "")
     return re.sub(r"\s+", " ", value).strip()
 
+def translate_text(client, text_value):
+    if not client or not text_value:
+        return ""
+    try:
+        response = client.responses.create(
+            model=os.getenv("OPENAI_MODEL", "gpt-4.1-mini"),
+            input=[
+                {"role": "system", "content": "Translate this hardware-news headline into concise, natural Arabic. Return only the translation."},
+                {"role": "user", "content": text_value},
+            ],
+        )
+        return response.output_text.strip()
+    except Exception as error:
+        print(f"Headline translation fallback: {error}")
+        return ""
+
 def translate_html(client, title, html):
     if not client or not html:
         return ""
@@ -112,6 +128,7 @@ def main():
                 published = entry.get("published") or entry.get("updated") or datetime.now(timezone.utc).isoformat()
                 articles.append({
                     "title": title,
+                    "title_ar": translate_text(client, title) if client else "",
                     "summary": summarize(client, title, description, "English"),
                     "summary_ar": summarize(client, title, description, "Arabic") if client else "",
                     "content_html": original_html[:12000],
