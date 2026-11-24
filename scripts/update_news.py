@@ -44,7 +44,7 @@ def load_sources():
 
 def clean_html(value):
     value = re.sub(r"<[^>]+>", " ", value or "")
-    return re.sub(r"\\s+", " ", value).strip()
+    return re.sub(r"\s+", " ", value).strip()
 
 def summarize(client, title, description, language="English"):
     clean = clean_html(description)
