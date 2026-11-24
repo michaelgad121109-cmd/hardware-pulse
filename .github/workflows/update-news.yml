@@ -8,6 +8,7 @@ on:
     paths:
       - "scripts/**"
       - "requirements.txt"
+      - ".github/workflows/update-news.yml"
 permissions:
   contents: read
 concurrency:
