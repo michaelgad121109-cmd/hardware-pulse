@@ -73,27 +73,27 @@ body.arabic .article-content h1,body.arabic .article-body h2,body.arabic .articl
 body.arabic .article-content,body.arabic .article-meta,body.arabic .article-deck,body.arabic .article-body,body.arabic .article-source{text-align:right}
 @media(max-width:650px){.article-shell{padding:28px 14px 60px}.article-content{padding:22px 18px}.article-source{align-items:stretch;flex-direction:column}.article-source .primary-button{justify-content:center}}
 
-/* Trox typography: headings only */
+
+/* Trox is used only for the large section/hero headings, never article titles. */
 .hero h1,
 .section h2,
 .about-strip h2,
-.creator-copy h2,
-.news-card h3,
-.article-content h1,
-.article-body h2,
-.article-body h3,
-.article-body h4{
+.creator-copy h2 {
   font-family:"Trox","Space Grotesk","Cairo",sans-serif;
 }
 body.arabic .hero h1,
 body.arabic .section h2,
 body.arabic .about-strip h2,
-body.arabic .creator-copy h2,
-body.arabic .news-card h3,
-body.arabic .article-content h1,
-body.arabic .article-body h2,
-body.arabic .article-body h3,
-body.arabic .article-body h4{
+body.arabic .creator-copy h2 {
   font-family:"Trox","Cairo",sans-serif;
   letter-spacing:0;
+}
+
+/* Give English reading text a little more breathing room. */
+body:not(.arabic) .hero-copy p,
+body:not(.arabic) .news-card p,
+body:not(.arabic) .article-deck,
+body:not(.arabic) .article-body {
+  line-height:2.05;
+  letter-spacing:.12px;
 }
